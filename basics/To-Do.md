@@ -3,17 +3,17 @@
 - [x] copy script code from vue.js getting started page# development version was used in video
 - [x] in basics (root) folder create index.html
 
-> typing the tag and pressing tab will create the correct syntax. adding a# will include an id. example div#app will create <div id=app></div>
 > Create the tags:
+> Typing the tag and pressing tab will create the correct syntax. adding a# will include an id. example div#app will create <div id=app></div>
 - [x] html
 - [x] head
 - [x] title (Vue Basics)
 - [x] body
 - [x] h1 (Vue Basics)
 - [x] div (id = "app")
-
+>
 - [x] paste script code in header, below title
-> referece to vue needs to be in header because all other js files will require it
+> Referece to vue needs to be in header because all other js files will require it
 
 - [x] create app.js in root folder
 - [x] add script src to html body linking to app.js
