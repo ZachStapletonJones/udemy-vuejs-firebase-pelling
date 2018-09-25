@@ -44,5 +44,5 @@
 >this. will refer to the current Vue instance
 >${} outputs variables (es6 functionality, not Vue)
 - [x] add name to data section, then reference it in methods
-- [x]pass data from the html greet, and reference it in app.js
-- [x]save and test
+- [x] pass data from the html greet, and reference it in app.js
+- [x] save and test
