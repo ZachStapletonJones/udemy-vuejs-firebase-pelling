@@ -21,7 +21,7 @@
 ### Lesson 6 - The Vue Instance
 - [x] create new Vue instance with ({})
 - [x] create element reference to div with app id tag (el: '#app')
->if the reference was a class, not an id, it would be '.app'
+> If the reference was a class, not an id, it would be '.app'
 
 - [x] create h2 inside index.html app div
 - [x] in Vue objects add data: with {}
@@ -30,6 +30,6 @@
 > {{}} is the syntax that vue uses to identify when it needs to do something, needs to be told to look at it via the el in app js
 - [x] output the title
 - [x] save and test
-> alt+o opens live html preview in browser
+> Alt+O opens live html preview in browser
 
 ### Lesson 7 - Methods
