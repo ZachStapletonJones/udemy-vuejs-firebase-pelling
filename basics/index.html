@@ -2,12 +2,24 @@
     <head>
         <title>Vue Basics</title>
         <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+        <style>
+            .one{
+                color: blue;
+            }
+            .two{
+                text-decoration: line-through;
+            }
+        
+        </style>
     </head>
     <body>
         <h1>Vue Basics</h1>
         <div id="app">
             <h2>{{ title }}</h2>
             <p>{{ greet('today') }}</p>
+            <a :href="url">Click to confirm</a>
+            <div :class="classes">Test</div>
+            <input type="text" :value="name"></input>
         </div>
         
         <script src="app.js"></script>

@@ -46,3 +46,16 @@
 - [x] add name to data section, then reference it in methods
 - [x] pass data from the html greet, and reference it in app.js
 - [x] save and test
+
+### Lesson 8 - Data Binding
+- [x] add youtube url string to app data
+- [x] add href within div and set url from app.js
+> Need to use v-bind:href instead of {{}} for html attribute
+> known as a directive (v-bind)
+- [x] add new div with binded class
+- [x] add class with array with 2 class names to app data
+- [x] add style to header
+- [x] define the color property of class one
+- [x] define the text-decoration of class two
+- [x] create text input field with vbind value of name
+> Able to use : instead of v-bind: for same effect
