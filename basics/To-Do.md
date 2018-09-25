@@ -33,3 +33,16 @@
 > Alt+O opens live html preview in browser
 
 ### Lesson 7 - Methods
+- [x] in app.js add methods to Vue
+- [x] add greet() as a method
+- [x] return `hello there'
+>es6 template string is ``
+>fully explained in bonus section of the course
+- [x] add a paragraph within index div
+- [x] include greet() within paragraph
+- [x] add title to return function
+>this. will refer to the current Vue instance
+>${} outputs variables (es6 functionality, not Vue)
+- [x] add name to data section, then reference it in methods
+- [x]pass data from the html greet, and reference it in app.js
+- [x]save and test
