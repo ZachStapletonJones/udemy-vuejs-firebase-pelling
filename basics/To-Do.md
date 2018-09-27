@@ -59,3 +59,16 @@
 - [x] define the text-decoration of class two
 - [x] create text input field with vbind value of name
 > Able to use : instead of v-bind: for same effect
+
+### Lesson 9 - Events
+- [x] clean out code from last time leaving el data title and methods
+- [x] create wage property in data (with int)
+- [x] create paragraph in app and call wage property
+- [x] create Increase Wage button
+- [x] add v-on: to button, specify click eqauls wage++ (add one)
+- [x] add button that decreases wage
+- [x] create change wage method that specifies an amount
+- [x] referece this wage and increase amount
+- [x] change app js wage to change wage function with number passed through it
+- [x] create two new buttons with double click
+- [x] make increment different from single click item
