@@ -72,3 +72,19 @@
 - [x] change app js wage to change wage function with number passed through it
 - [x] create two new buttons with double click
 - [x] make increment different from single click item
+
+### Lesson 10 - The Event Object
+- [x] clean out code from last time leaving el data title and methods
+- [x] create button with click to log event (@ instead of v-on:)
+- [x] add logEvent method (e)
+- [x] add console log for e
+- [x] view it in the browser console
+- [x] create a new div with canvas class
+- [x] style the canvas class with height width margin-top and background
+- [x] attach mouse move event name and logCoords to div
+- [x] add coords to data with x/y properties at 0
+- [x] reference the coordinates in the div (two references for x and y)
+- [x] create logCoords method
+- [x] set x coord to equal e.offsetX
+- [x] do the same for y
+
