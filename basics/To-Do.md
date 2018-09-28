@@ -97,3 +97,10 @@
 - [x] comment out console
 - [x] grab the name property and set it equal to the value of the element target
 - [x] try the input with keypress instead
+
+### Lesson 12 - Two-way Data Binding (v-model)
+- [x] remove 2nd input, updateName, and reference in html
+- [x] use directive v-model in input type
+- [x] associate the name property
+
+### Lesson 13 - Modifiers
