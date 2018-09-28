@@ -112,7 +112,7 @@
 - [x] add click event to href
 - [x] add prevent modifier to click event
 
-### Lesson 14 - 
+### Lesson 14 - v-if
 - [x] add data property showName and set to true
 - [x] create paragraph with directive v-if to evaluate showName
 - [x] create button with click event with toggleName function
@@ -122,4 +122,17 @@
 - [x] add new paragraph with v-if showAge with toggleAge function
 - [x] add button for toggleAge
 - [x] add toggleAge function
+
+### Lesson 15 - v-for
+- [x] create new data property, items, with array of 5 items
+- [x] add ul to html
+- [x] add li within, with vfor equalling item in items
+- [x] output the individual item in the li
+- [x] create new array called ninjas
+- [x] create objects with 3 pieces of defined data
+- [x] add a new div tag with  v-for ninja in ninjas
+- [x] output p tag with ninja name
+- [x] output p tags with belt and age
+- [x] in the div, add the index to the ninja
+- [x] output index before ninja name in p
 
