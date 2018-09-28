@@ -104,3 +104,11 @@
 - [x] associate the name property
 
 ### Lesson 13 - Modifiers
+- [x] add empty button
+- [x] add click event that has a function logMessage
+- [x] add method for logMessage
+- [x] add modifier to event click by adding a . and alt
+- [x] create anchor href to google.com
+- [x] add click event to href
+- [x] add prevent modifier to click event
+
