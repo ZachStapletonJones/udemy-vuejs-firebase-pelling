@@ -88,3 +88,12 @@
 - [x] set x coord to equal e.offsetX
 - [x] do the same for y
 
+### Lesson 11 - Keyboard Events
+- [x] clean code
+- [x] add a name reference and call it in index
+- [x] add input that listens to keyup event, name it updateName
+- [x] add updateName to methods
+- [x] console log the value of the element target
+- [x] comment out console
+- [x] grab the name property and set it equal to the value of the element target
+- [x] try the input with keypress instead

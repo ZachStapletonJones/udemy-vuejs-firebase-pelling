@@ -2,21 +2,14 @@
     <head>
         <title>Vue Basics</title>
         <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-        <style>
-            .canvas{
-               height: 500px;
-               width: 500px;
-               margin-top: 5px;
-               background: #aaa;
-            }
-        </style>
     </head>
     <body>
         <h1>Vue Basics</h1>
         <div id="app">
             <h2>{{ title }}</h2>
-           <button @click="logEvent">Log Event</button>
-           <div class="canvas" @mousemove="logCoords">{{ coords.x }} , {{ coords.y}}</div>
+            <p>Hello {{ name }}</p>
+            <input type="text" @keyup="updateName"></input>
+            <input type="text" @keypress="updateName"></input>
         </div>
         
         <script src="app.js"></script>
