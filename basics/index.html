@@ -8,9 +8,10 @@
         <div id="app">
             <h2>{{ title }}</h2>
             <p>Hello {{ name }}</p>
-            <input type="text" v-model="name"></input>
-            <button @click.alt="logMessage">Click Me</button>
-            <a href="www.google.com" @click.prevent="logMessage">Google</a>
+            <p v-if="showName">{{ name }}</p>
+            <p v-else-if="showAge">{{ age }}</p>
+            <button @click="toggleName">{{showName}}</button>
+            <button @click="toggleAge">{{showAge}}</button>
         </div>
         
         <script src="app.js"></script>

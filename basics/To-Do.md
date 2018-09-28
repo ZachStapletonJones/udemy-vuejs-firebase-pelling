@@ -112,3 +112,14 @@
 - [x] add click event to href
 - [x] add prevent modifier to click event
 
+### Lesson 14 - 
+- [x] add data property showName and set to true
+- [x] create paragraph with directive v-if to evaluate showName
+- [x] create button with click event with toggleName function
+- [x] add showName to button for debugging
+- [x] add toggleName to methods
+- [x] equal showName to the opposite of showName
+- [x] add new paragraph with v-if showAge with toggleAge function
+- [x] add button for toggleAge
+- [x] add toggleAge function
+
