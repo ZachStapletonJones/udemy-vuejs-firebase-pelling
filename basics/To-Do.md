@@ -136,3 +136,4 @@
 - [x] in the div, add the index to the ninja
 - [x] output index before ninja name in p
 
+### Lesson 16
