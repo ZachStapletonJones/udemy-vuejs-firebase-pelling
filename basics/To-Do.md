@@ -1,4 +1,3 @@
-
 ### Lesson 5 - Setting up Vue.js (the simple way)
 - [x] copy script code from vue.js getting started page# development version was used in video
 - [x] in basics (root) folder create index.html
@@ -136,4 +135,11 @@
 - [x] in the div, add the index to the ninja
 - [x] output index before ninja name in p
 
-### Lesson 16
+### Lesson 16 - The Vue CLI
+- [x] install node.js
+- [x] open terminal in VSCode and check node version
+- [x] follow CLI installation guide on vuejs.org (use webpack-simple)
+> run inside desired dir
+> do not use sass
+- [x] cd into new project folder
+- [x] npm install in dir
